@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently focusing on [Audojo](https://alg.ibr.cs.tu-bs.de/projects/audojo/), a visualizer for algorithms and data structures
+- 🔭 I’m currently focusing on [Audojo](https://audojo.org), a visualizer for algorithms and data structures
 <!--
 **anomatomato/anomatomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
